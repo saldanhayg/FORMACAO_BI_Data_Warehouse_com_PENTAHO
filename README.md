@@ -27,11 +27,11 @@ Ao finalizar os seus estudos, você será criao relatórios e gráficos com base
 
 ## Tecnologia utilizadas 🚀:
 
-* <a href="https://pt.wikipedia.org/wiki/Pentaho">Pentaho</a> 
-* <a href="https://pt.wikipedia.org/wiki/MySQL">MySQL</a> 
-* <a href="https://pt.wikipedia.org/wiki/Microsoft_SQL_Server">SQL Server</a> 
-
-
+* <a href="https://pt.wikipedia.org/wiki/Pentaho">Pentaho</a>  
+* <a href="https://pt.wikipedia.org/wiki/HeidiSQL">HeidiSQL</a> 
+* <a href="http://www.bestofbi.com/page/news-architect-018">SQL Power Architect</a> 
+* <a href="https://pt.wikipedia.org/wiki/MySQL">My SQL</a> 
+* <a href="https://pt.wikipedia.org/wiki/Microsoft_SQL_Server">Microsoft SQL Server</a>
 
 ## Link deste curso  💻
 
