@@ -27,15 +27,23 @@ Aulas do curso :<br>
 * <a href="http://www.bestofbi.com/page/news-architect-018">SQL Power Architect</a> 
 * <a href="https://pt.wikipedia.org/wiki/MySQL">My SQL</a> 
 * <a href="https://pt.wikipedia.org/wiki/Microsoft_SQL_Server">Microsoft SQL Server</a>
+<br>
+<h2>
+   <img src="https://i.ibb.co/Dgt5wnm/Softwares-auxiliares.png" border="0">
+</h2>
+<br>
+<h2>
+   <img src="https://i.ibb.co/pbfwfP6/Softwares-Pentaho.png" border="0">
+</h2>
 
 ## Link deste curso  💻
 
  🎯 <a href="https://cursos.alura.com.br/course/pentaho-data-integration-modelos-etl
 " target="_blank" >Modelos de ETL - Pentaho Data Integration</a>
-
 <br>
 <br>
 [Me siga nas redes sociais](https://linktr.ee/ygtecnologia)
 <br>
+“Investir em conhecimento rende sempre os melhores juros“. Benjamim Franklin
 <br> 
-🙏 Oração ! Foco ! Ação ! Jeova Jireh - Deus Provera 🙏  
+🙏 Oração ! Foco ! Ação ! Jeova Jireh - Deus Provera 🙏 
