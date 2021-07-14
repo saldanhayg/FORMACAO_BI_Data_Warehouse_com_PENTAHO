@@ -83,7 +83,7 @@ Job Carga DW DM<br>
 <br>
 <br>
 [Me siga nas redes sociais](https://linktr.ee/ygtecnologia)
-<br>
+<br><br> 
 “Investir em conhecimento rende sempre os melhores juros“. Benjamim Franklin
-<br> 
+<br> <br> 
 🙏 Oração ! Foco ! Ação ! Jeova Jireh - Deus Provera 🙏   
