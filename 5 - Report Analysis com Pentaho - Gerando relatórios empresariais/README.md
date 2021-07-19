@@ -1,31 +1,45 @@
-# 💻   
+# 🎰 Report Analysis com Pentaho: Gerando relatórios empresariais
 
 <h1>
-   <img src=" img " border="0">
+   <img src="https://i.ibb.co/XWqHCms/Report-Analysis-com-Pentaho-Gerando-relat-rios-empresariais.png" border="0">
 </h1>
-
-Descritivo  
 
 ## Sobre: 
 
-Tópicos co curso :<br>
-✅ ** Texto aqui **<br>
+Esse curso de Business Intelligence aborda :<br>
+✔  **Analise e visualize os seus dados**<br> 
+✔  **Use o Pentaho Report Designer para construir os relatórios**<br>
+✔  **Gere mapas e gráficos diversos**<br>
+✔  **Use Saiku Analytics para relatórios interativos**<br>
+✔  **Protege os relatórios e restringe o acesso**<br> 
+✔  **Faca uma Análise de Pareto (80/20)**<br><br>
 
 
+Aulas do curso :<br>
+✅ **Análises especiais**<br>
+✅ **Usando Saiku Analytics**<br>
+✅ **Restrição de Acesso**<br>
+✅ **Gerando Relatórios com Pentaho Report**<br>
+✅ **Pentaho Report no Servidor**<br>
 
+### Link deste curso  💻
 
-## Tecnologia utilizadas 🚀:
+ 🎯 <a href="https://cursos.alura.com.br/course/report-analysis-com-pentaho" target="blank">Report Analysis com Pentaho: Gerando relatórios empresariais</a>
 
-* <a href="https://pt.wikipedia.org/wiki/Power_BI">Power BI</a> 
+### Tecnologia utilizadas 🚀:
 
-
-## Link deste curso  💻
-
- 🎯 <a href="             " target="_blank">                 </a>
-
+* <a href="https://help.pentaho.com/Documentation/8.2/Products/Schema_Workbench">Pentaho Schema Workbench</a>  
+* <a href="https://www.meteorite.bi/">Saiku Analytics</a> 
+* <a href="https://pt.wikipedia.org/wiki/MySQL">My SQL</a> 
+<br>
 <br>
 <br>
 [Me siga nas redes sociais](https://linktr.ee/ygtecnologia)
 <br>
 <br> 
-🙏 Oração ! Foco ! Ação ! Jeova Jireh - Deus Provera 🙏  
+“Investir em conhecimento rende sempre os melhores juros“. Benjamim Franklin
+<br>
+<br> 
+🙏 Oração ! Foco ! Ação ! Jeova Jireh - Deus Provera 🙏   
+ 
+

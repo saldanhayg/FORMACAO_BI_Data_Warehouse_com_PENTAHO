@@ -38,8 +38,7 @@ Aulas do curso :<br>
 ### MDX _ Indicadores 
 
 **Faturamento Liquido**<br>
-	[Measures].[Faturamento Liquido]-[Measures].[Custo Fixo]-[Measures].[Custo Variavel]
-   <br><br>
+	[Measures].[Faturamento Liquido]-[Measures].[Custo Fixo]-[Measures].[Custo Variavel] <br>
 
 **Margem** <br>
 	[Measures].[Faturamento Liquido]-[Measures].[Custo Fixo]-[Measures].[Custo Variavel] <br>
