@@ -28,9 +28,7 @@ Aulas do curso :<br>
 
 ### Tecnologia utilizadas 🚀:
 
-* <a href="https://help.pentaho.com/Documentation/8.2/Products/Schema_Workbench">Pentaho Schema Workbench</a>  
-* <a href="https://www.meteorite.bi/">Saiku Analytics</a> 
-* <a href="https://pt.wikipedia.org/wiki/MySQL">My SQL</a> 
+* <a href="https://help.pentaho.com/Documentation/8.0/Products/Analyzer#Create_an_Analysis_Report">Report Analysis com Pentaho</a>  
 <br>
 <br>
 <br>
