@@ -37,9 +37,12 @@ Ao finalizar os seus estudos, você será criao relatórios e gráficos com base
 
  🎯 <a href="https://cursos.alura.com.br/formacao-business-intelligence-data-warehouse-pentaho" target="_blank">BI e Data Warehouse com Pentaho</a>
 
-<br>
-<br>
-[Me siga nas redes sociais](https://linktr.ee/ygtecnologia)
+## Me siga nas redes sociais
+
+👨‍💼🔮  https://linktr.ee/ygtecnologia 
 <br>
 <br> 
-🙏 Oração ! Foco ! Ação ! Jeova Jireh - Deus Provera 🙏  
+Investir em conhecimento rende sempre os melhores juros. Benjamim Franklin
+<br>
+<br> 
+🙏 Oração ! Foco ! Ação ! Yeshua Hamashia 
