@@ -6,22 +6,21 @@
 
 ## Sobre: 
 
-Esse curso de Business Intelligence aborda :<br>
+Esse curso aborda :<br>
 ✔  **Avance no uso do Pentaho Data Integration**<br> 
 ✔  **Construa as dimensões e carregue a tabela de fato**<br>
 ✔  **Aprenda como orquestrar processos de carga**<br>
 ✔  **Aplique o ETL para importar dados**<br>
-✔  **Automatize a carga de dados**<br><br>
-
-Carga Horária: 16h<br><br>
+✔  **Automatize a carga de dados**<br>
+<br>
 
 Aulas do curso :<br>
-✅ **Carga de dimensões**<br>
-✅ **Carga da dimensão irregular**<br>
-✅ **Carga da dimensão tempo**<br>
-✅ **Carga das fatos**<br>
-✅ **Orquestrando os processos de carga**<br>
-✅ **Passando variáveis e executando o BAT**<br>
+✔  **Carga de dimensões**<br>
+✔  **Carga da dimensão irregular**<br>
+✔  **Carga da dimensão tempo**<br>
+✔  **Carga das fatos**<br>
+✔  **Orquestrando os processos de carga**<br>
+✔  **Passando variáveis e executando o BAT**<br>
 
 ### Spoon : 
 
@@ -136,16 +135,16 @@ Todas Fatos <br>
 * <a href="https://pt.wikipedia.org/wiki/Microsoft_SQL_Server">Microsoft SQL Server</a>
 <br>
 
-### Link deste curso  💻
+## Link deste curso  💻
 
  🎯 <a href="https://cursos.alura.com.br/course/pentaho-data-integration-transformacao-com-etl" target="_blank">Transformação com ETL: Pentaho Data Integration</a>
 
+## Me siga nas redes sociais
+
+👨‍💼🔮  https://linktr.ee/ygtecnologia 
 <br>
-<br>
-[Me siga nas redes sociais](https://linktr.ee/ygtecnologia)
-<br>
-“Investir em conhecimento rende sempre os melhores juros“. Benjamim Franklin
 <br> 
-🙏 Oração ! Foco ! Ação ! Jeova Jireh - Deus Provera 🙏  
-
-
+Investir em conhecimento rende sempre os melhores juros. Benjamim Franklin
+<br>
+<br> 
+🙏 Oração ! Foco ! Ação ! Yeshua Hamashia

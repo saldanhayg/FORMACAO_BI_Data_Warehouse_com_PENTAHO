@@ -14,12 +14,12 @@ Esse curso de Business Intelligence aborda :<br>
 ✔  **Apresente os indicadores mais importantes (KPI)**<br> 
 
 Aulas do curso :<br>
-✅ **Apresentação e recuperando ambiente**<br>
-✅ **Construindo um gráfico**<br>
-✅ **Criando um Dashboard completo**<br>
-✅ **Implementando filtro**<br>
-✅ **Layout**<br>
-✅ **Filtro multi seleção e mapa**<br>
+✔  **Apresentação e recuperando ambiente**<br>
+✔  **Construindo um gráfico**<br>
+✔  **Criando um Dashboard completo**<br>
+✔  **Implementando filtro**<br>
+✔  **Layout**<br>
+✔  **Filtro multi seleção e mapa**<br>
 
  ### Link deste curso  💻
 
@@ -29,13 +29,14 @@ Aulas do curso :<br>
 
 * <a href="https://www.meteorite.bi/">Saiku Analytics</a> 
 * <a href="https://help.pentaho.com/Documentation/9.1/Products/CTools">CTools Dashboard</a> 
-<br>
-<br>
-<br>
-[Me siga nas redes sociais](https://linktr.ee/ygtecnologia)
-<br>
-<br> 
-“Investir em conhecimento rende sempre os melhores juros“. Benjamim Franklin
+
+### Me siga nas redes sociais
+
+👨‍💼🔮  https://linktr.ee/ygtecnologia 
 <br>
 <br> 
-🙏 Oração ! Foco ! Ação ! Jeova Jireh - Deus Provera 🙏   
+Investir em conhecimento rende sempre os melhores juros. Benjamim Franklin
+<br>
+<br> 
+🙏 Oração ! Foco ! Ação ! Yeshua Hamashia  
+  

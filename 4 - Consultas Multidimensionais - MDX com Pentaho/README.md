@@ -6,7 +6,7 @@
 
 ## Sobre: 
 
-Esse curso de Business Intelligence aborda :<br>
+Esse curso aborda :<br>
 ✔  **Entenda Multidimensional Expressions (MDX)**<br> 
 ✔  **Trabalhe com paginação e ranque os resultados**<br>
 ✔  **Ordene, conte e filtre os dados**<br>
@@ -14,13 +14,13 @@ Esse curso de Business Intelligence aborda :<br>
 ✔  **Configure ambiente e ative Logs**<br><br>
 
 Aulas do curso :<br>
-✅ **Recuperando Ambiente**<br>
-✅ **Configurando o OLAP**<br>
-✅ **Logs e pastas**<br>
-✅ **MDX Query básica**<br>
-✅ **Membros Calculados**<br>
-✅ **Cálculo entre membros**<br>
-✅ **Rank**<br>
+✔  **Recuperando Ambiente**<br>
+✔  **Configurando o OLAP**<br>
+✔  **Logs e pastas**<br>
+✔  **MDX Query básica**<br>
+✔  **Membros Calculados**<br>
+✔  **Cálculo entre membros**<br>
+✔  **Rank**<br>
 <br>
 
 ### Schema Workbench
@@ -66,13 +66,13 @@ Aulas do curso :<br>
 * <a href="https://pt.wikipedia.org/wiki/HeidiSQL">HeidiSQL</a> 
 * <a href="https://pt.wikipedia.org/wiki/MySQL">My SQL</a> 
 <br>
-<br>
-<br>
-[Me siga nas redes sociais](https://linktr.ee/ygtecnologia)
-<br>
-<br> 
-“Investir em conhecimento rende sempre os melhores juros“. Benjamim Franklin
+
+### Me siga nas redes sociais
+
+👨‍💼🔮  https://linktr.ee/ygtecnologia 
 <br>
 <br> 
-🙏 Oração ! Foco ! Ação ! Jeova Jireh - Deus Provera 🙏   
- 
+Investir em conhecimento rende sempre os melhores juros. Benjamim Franklin
+<br>
+<br> 
+🙏 Oração ! Foco ! Ação ! Yeshua Hamashia
