@@ -6,7 +6,7 @@
 
 ## Sobre: 
 
-Esse curso aborda :<br
+Esse curso aborda :<br>
 ✔  **Construa um sistema de Data Warehouse**<br>
 ✔  **Entenda Pentaho Data Integration (Spoon)**<br>
 ✔  **Carregue dados na dimensão**<br>
