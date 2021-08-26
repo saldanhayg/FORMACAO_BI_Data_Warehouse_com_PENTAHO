@@ -4,7 +4,7 @@ Nesta formação será aprofundada a Inteligência Empresarial e será criado co
 
 Também será usado banco de dados SQL Server, extraindo dados de fontes heterogêneas para alimentar o Data Warehouse da sua empresa por meio do processo ETL.
 
-Ao finalizar os seus estudos, você será criao relatórios e gráficos com base nos dados avaliados. 
+Ao finalizar os seus estudos, você será criao relatórios e gráficos com base nos dados avaliados 
  
 <h1>
    <img src="https://i.ibb.co/HhZZzQn/BI-E-DATA-WAREHOUSE-COM-PENTAHO.png" border="0">
@@ -45,4 +45,4 @@ Ao finalizar os seus estudos, você será criao relatórios e gráficos com base
 Investir em conhecimento rende sempre os melhores juros. Benjamim Franklin
 <br>
 <br> 
-🙏 Oração ! Foco ! Ação ! Yeshua Hamashia 
+Oração ! Foco ! Ação ! Yeshua Hamashia 
